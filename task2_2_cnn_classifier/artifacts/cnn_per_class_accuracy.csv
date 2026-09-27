@@ -1,0 +1,11 @@
+class,support,accuracy
+Shirt,1000,0.706
+Pullover,1000,0.825
+T-shirt/top,1000,0.873
+Coat,1000,0.89
+Dress,1000,0.907
+Sneaker,1000,0.957
+Ankle boot,1000,0.963
+Sandal,1000,0.975
+Trouser,1000,0.981
+Bag,1000,0.99

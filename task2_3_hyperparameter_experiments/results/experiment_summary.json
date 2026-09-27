@@ -1,0 +1,13 @@
+{
+  "seed": 42,
+  "epochs_per_config_in_sweeps_a_b": 3,
+  "best_optimizer": "rmsprop",
+  "best_learning_rate": 0.001,
+  "best_batch_size": 16,
+  "augmentation": false,
+  "batch_size": 64,
+  "device": "cpu",
+  "torch": "2.14.0+cpu",
+  "n_train": 54000,
+  "n_val": 6000
+}

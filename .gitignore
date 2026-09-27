@@ -1,0 +1,19 @@
+# Fashion-MNIST downloads (~82 MB).
+# torchvision re-downloads these automatically on first run, so there is no
+# reason to version them.
+data/
+**/data/
+
+# Submission archives
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
